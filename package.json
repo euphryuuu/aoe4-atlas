@@ -1,0 +1,8 @@
+{
+  "name": "aoe4-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "日本語の AoE IV 文明・戦術ガイド",
+  "scripts": { "start": "node server.cjs", "check": "node --check dist/app.js && node --check dist/data.js && node scripts/check.cjs" },
+  "engines": { "node": ">=18" }
+}
