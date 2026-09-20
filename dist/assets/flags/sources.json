@@ -1,0 +1,144 @@
+{
+  "repository": "https://github.com/aoe4world/overlay",
+  "commit": "c3060d3b34dd0ac2e3594260757586e4ec37caee",
+  "assets": [
+    {
+      "civilization": "english",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/english.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "french",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/french.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "holy-roman-empire",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/holy_roman_empire.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "rus",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/rus.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "chinese",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/chinese.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "delhi-sultanate",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/delhi_sultanate.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "abbasid-dynasty",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/abbasid_dynasty.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "mongols",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/mongols.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "ottomans",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/ottomans.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "malians",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/malians.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "japanese",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/japanese.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "byzantines",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/byzantines.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "ayyubids",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/ayyubids.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "jeanne-darc",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/jeanne_darc.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "order-of-the-dragon",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/order_of_the_dragon.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "zhu-xis-legacy",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/zhu_xis_legacy.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "house-of-lancaster",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/house_of_lancaster.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "knights-templar",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/knights_templar.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "golden-horde",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/golden_horde.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "macedonian-dynasty",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/macedonian_dynasty.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "sengoku-daimyo",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/sengoku_daimyo.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "tughlaq-dynasty",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/tughlaq_dynasty.png",
+      "width": 104,
+      "height": 56
+    },
+    {
+      "civilization": "jin-dynasty",
+      "source": "https://raw.githubusercontent.com/aoe4world/overlay/c3060d3b34dd0ac2e3594260757586e4ec37caee/src/assets/flags/jin_dynasty.png",
+      "width": 104,
+      "height": 56
+    }
+  ]
+}
